@@ -3,7 +3,7 @@
 
 My New Machine Learning project.
 
-Movies Recommendation System.
+Netflix Movies Recommendation System Using Recommendations Algorithms & Clustering.
 
 A brief about the notebook:
 
